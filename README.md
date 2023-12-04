@@ -20,3 +20,5 @@ Analytics/ IOT/WEB/Mobile to ensure 24x7 Availability.
 Provide cost estimates for AWS solutions and help manage budgets effectively.
 Participate in architecture reviews to ensure compliance with AWS best practices and standards.
 Hands-on experience with Cloud/On Prem APM& monitoring tools such as Dynatrace, Splunk, Grafana, OP5 and AppDynamics, Prometheus …etc.
+
+If interested please shareCV to sravani@akshayaitsolutions.com
